@@ -80,14 +80,13 @@ SYSDEV_SLIDES = \
 		course-information \
 		sysdev-intro \
 		sysdev-dev-environment \
-		setup-lab \
 		sysdev-toolchains-title \
 		sysdev-toolchains-definition \
 		sysdev-toolchains-c-libraries-title \
 		c-libraries \
 		sysdev-toolchains-options \
 		sysdev-toolchains-obtaining \
-		sysdev-toolchains-lab \
+		sysdev-system-building \
 		sysdev-bootloaders-title \
 		sysdev-bootloaders-sequence \
 		sysdev-bootloaders-u-boot \
